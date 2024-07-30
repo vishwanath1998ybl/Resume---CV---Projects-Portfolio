@@ -10,7 +10,7 @@ Resume - CV - Projects Portfolio
     <meta charset="utf-8">
     
     <!-- Site Title -->
-    <title>Akram M'Tir - Resume Portfolio</title>
+    <title>vishwanath gupta  - Resume Portfolio</title>
     
     <meta name="description" content="vishwanath gupta 'Tir Resume Projects Protfolio">
     <meta name="keywords" content="vishwanath gupta 'Tir, resume, portfolio, CV, projects">
@@ -2057,6 +2057,278 @@ Robotic systems laboratory Lausanne, Switzerland.</h4>
         ga('send', 'pageview');
     </script>
     
+</body>
+
+</html>
+
+
+
+
+
+************************************************************************************************************************************]
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    
+    <!-- Site Title -->
+    <title>Akram M'Tir - Resume - Projects Portfolio</title>
+    
+    <meta name="description" content="Akram M'Tir - Resume - Projects Portfolio">
+    <meta name="keywords" content="Akram M'Tir, resume, portfolio, CV, projects">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+
+    <!-- Google Font -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css'>
+    
+    <!-- Bootstrap Core CSS -->
+    <link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    
+    <!-- Font icons CSS -->
+    <link href="assets/plugins/icons-mind/style.css" rel="stylesheet" type="text/css">
+    <link href="assets/plugins/fontawesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    
+    <!-- Plugins CSS -->
+    <link href="assets/plugins/jpreloader/css/jpreloader.css" rel="stylesheet" type="text/css">    
+    <link href="assets/plugins/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css">    
+    <link href="assets/plugins/owl-carousel/owl.theme.css" rel="stylesheet" type="text/css">    
+    
+    <!-- Main CSS -->
+    <link href="assets/css/amtir.css" rel="stylesheet" type="text/css">
+    
+    <!-- Single Portfolio CSS -->
+    <link href="assets/css/single-portfolio-2.css" rel="stylesheet" type="text/css">
+    
+    <!-- Color CSS -->
+    <!--<link href="assets/css/colors/green.css" rel="stylesheet" type="text/css">-->
+    
+    <link href="assets/css/switch-style.css" rel="stylesheet" type="text/css">
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    
+    <!-- Modernizr JS for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 8]>
+    <script src="assets/plugins/modernizr.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <!--[if lt IE 10]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    
+    
+    <!-- SINGLE PORTFOLIO SECTION START -->
+    <section id="single-portfolio" class="section">
+        <div class="container section-wrapper">
+            <div class="section-content">
+                <div class="row">
+                    <div class="col-md-2 hidden-xs hidden-sm">
+                        <div class="project-nav">
+                            <div class="project-nav-link">
+                                <a href="portfolio-projects-1.html"><i class="fa fa-chevron-circle-left"></i></a>
+
+                                <a href="index.html#portfolio" class="hidden-md hidden-lg"><i class="fa fa-times-circle"></i></a>
+
+                                <a href="portfolio-projects-1.html"><i class="fa fa-chevron-circle-right"></i></a>
+                            </div>
+                            <!-- //.project-nav-link -->
+                        </div>
+                        <!-- //.project-nav -->
+                    </div>
+                    <!-- //.col-md-2 -->
+
+                    <div class="col-md-8">
+                        <h2 class="project-title">
+                            <a href="#">Software Development</a>
+                        </h2>
+                    </div>
+                    <!-- //.col-md-8 -->
+
+                    <div class="col-md-2">
+                        <div class="project-nav clearfix">
+                            <div class="project-nav-link pull-right">
+                                <a href="portfolio-projects-1.html" class="hidden-md hidden-lg"><i class="fa fa-chevron-circle-left"></i></a>
+                                
+                                <a href="index.html#portfolio"><i class="fa fa-times-circle"></i></a>
+                                
+                                <a href="portfolio-projects-1.html" class="hidden-md hidden-lg"><i class="fa fa-chevron-circle-right"></i></a>
+                            </div>
+                            <!-- //.project-nav-link -->
+                        </div>
+                        <!-- //.project-nav -->
+                    </div>
+                    <!-- //.col-md-2 -->
+                </div>
+                <!-- //.row -->
+                
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="owl-carousel">
+                            <div class="item">
+                                <img src="assets/images/single-portfolio/project-image-1.jpg" alt="" class="img-responsive img-thumbnail"/>
+                            </div>
+                            <!-- //.item -->
+                            
+                            <div class="item">
+                                <img src="assets/images/single-portfolio/project-image-2.jpg" alt="" class="img-responsive img-thumbnail"/>
+                            </div>
+                            <!-- //.item -->
+                            
+                            <div class="item">
+                                <img src="assets/images/single-portfolio/project-image-5.jpg" alt="" class="img-responsive img-thumbnail"/>
+                            </div>
+                            <!-- //.item -->
+                        </div>
+                        <!-- //.owl-carousel -->
+                    </div>
+                    <!-- //.col-md-8 -->
+                    
+                    <div class="col-md-4">
+                        <div class="project-description">
+                            <div class="project-details text-center">
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <h5>Basic Info:</h5>
+                                        <p>Full-Stack Web Development. (HTML CSS, JS, PHP, MVC)<br>
+                                            Products Requirement Definition Document<br>
+                                            Objects Oriented Development and Design Patterns (UML)<br>
+                                            Database Design, conceptual modelling and implementation<br>
+                                            Consultancy<br>
+                                            Distributed Systems/Client-Server applications, multi-tier architecture, concurrency, threads.<br>
+                                            Advertiesement, communication and marketing operations<br>
+                                            Agile, waterfall methodologies<br>
+                                            Automation and Engineering Laboratory: PC-based processes and Human Machine Interface.<br>
+                                            
+                                            
+                                        
+                                        </p>
+                                    </li>
+
+                                    <li>
+                                        <h5>Published:</h5>
+                                        <p>May 8, 2015</p>
+                                    </li>
+
+                                    <li>
+                                        <h5>Client:</h5>
+                                        <p>NET TV</p>
+                                    </li>
+                                   
+                                    <li>
+                                        <h5>Testimonial:</h5>
+                                        <p>
+                                            "As always Berg did an excellent job in just few hours. Great communication and fast excecution. Thanks for great work :)"
+                                            <br>
+                                            <em>Wishnutama Kusubandio, CEO</em>
+                                        </p>
+                                    </li>
+                                </ul>
+
+                                <div class="bar-chart">
+                                    <div class="item">
+                                        <h5 class="text-uppercase">Design Quality</h5>
+
+                                        <div class="bar">
+                                            <span class="percent">78%</span>
+                                            <span class="item-progress" data-percent="78"></span>
+                                        </div>
+                                        <!-- //.bar -->
+                                    </div>
+                                    <!-- //.item -->
+                                    
+                                    <div class="item">
+                                        <h5 class="text-uppercase">Customizability</h5>
+
+                                        <div class="bar">
+                                            <span class="percent">56%</span>
+                                            <span class="item-progress" data-percent="56"></span>
+                                        </div>
+                                        <!-- //.bar -->
+                                    </div>
+                                    <!-- //.item -->
+                                    
+                                    <div class="item">
+                                        <h5 class="text-uppercase">Customer Support</h5>
+
+                                        <div class="bar">
+                                            <span class="percent">89%</span>
+                                            <span class="item-progress" data-percent="89"></span>
+                                        </div>
+                                        <!-- //.bar -->
+                                    </div>
+                                    <!-- //.item -->
+                                </div>
+                                <!-- //.bar-chart -->
+                                
+                                <a href="https://www.behance.net/gallery/26043281/Wooden-Rhinoceros-Beetle" class="btn btn-lg btn-custom external-link" target="_blank">View on Behance</a>
+                            </div>
+                            <!-- //.project-details -->
+                        </div>
+                        <!-- //.project-description -->
+                    </div>
+                    <!-- //.col-md-4 -->
+                </div>
+                <!-- //.row -->
+                
+                <div class="row visible-xs visible-sm">
+                    <div class="col-md-12">
+                        <div class="project-nav bottom">
+                            <div class="project-nav-link">
+                                <a href="portfolio-projects-1.html"><i class="fa fa-chevron-circle-left"></i></a>
+                                
+                                <a href="index.html#portfolio"><i class="fa fa-times-circle"></i></a>
+                                
+                                <a href="portfolio-projects-1.html"><i class="fa fa-chevron-circle-right"></i></a>
+                            </div>
+                            <!-- //.project-nav-link -->
+                        </div>
+                        <!-- //.project-nav -->
+                    </div>
+                    <!-- //.col-md-12 -->
+                </div>
+                <!-- //.row -->
+            </div>
+            <!-- //.section-content -->
+        </div>
+        <!-- //.container -->
+    </section>
+    <!-- //SINGLE PORTFOLIO SECTION END -->
+    
+ 
+    <!-- Plugins JS -->
+    <script src="assets/plugins/jquery.min.js"></script>
+    <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/plugins/jpreloader/js/jpreloader.min.js"></script>
+    <script src="assets/plugins/detectmobilebrowser/detectmobilebrowser.js"></script>
+    <script src="assets/plugins/debouncer/debouncer.js"></script>
+    <script src="assets/plugins/easing/jquery.easing.min.js"></script>
+    <script src="assets/plugins/inview/jquery.inview.min.js"></script>
+    <script src="assets/plugins/owl-carousel/owl.carousel.min.js"></script>
+    
+    <!-- Main JS -->
+    <script src="assets/js/main.js"></script>
+    
+    <!-- Project Slider JS -->
+    <script src="assets/js/project-slider.js"></script>
+    
+    <script src="assets/js/switch-style.js"></script>
+    
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-66518533-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+
 </body>
 
 </html>
